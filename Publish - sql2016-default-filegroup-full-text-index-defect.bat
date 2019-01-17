@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\150\sqlpackage.exe" /Action:Publish /Profile:".\sql2016-default-filegroup-full-text-index-defect\sql2016-default-filegroup-full-text-index-defect.publish.xml" /SourceFile:".\sql2016-default-filegroup-full-text-index-defect\bin\Debug\sql2016-default-filegroup-full-text-index-defect.dacpac" /TargetDatabaseName:sql2016-default-filegroup-full-text-index-defect /TargetServerName:.
+PAUSE

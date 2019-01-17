@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.0.0.0</Version>
+    <ContainsExportedData>false</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>2e109d02-b12a-4d0e-ae8c-7500e63393f0</Identity>
+    <Start>2019-01-17T13:22:49.3547438+00:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>15.0.4200.1</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Server 2016 (SP2-CU4) (KB4464106) - 13.0.5233.0 (X64) 
+	Nov  3 2018 00:01:54 
+	Copyright (c) Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Pro for Workstations 10.0 &lt;X64&gt; (Build 17134: )
+</ServerVersion>
+    <ObjectCounts>
+      <DatabaseOptions>1</DatabaseOptions>
+      <Filegroup>1</Filegroup>
+      <FullTextCatalog>1</FullTextCatalog>
+      <FullTextIndex>1</FullTextIndex>
+      <Login>1</Login>
+      <PrimaryKeyConstraint>1</PrimaryKeyConstraint>
+      <SimpleColumn>2</SimpleColumn>
+      <Table>1</Table>
+      <User>1</User>
+    </ObjectCounts>
+  </Server>
+  <Checksums>
+    <Checksum Uri="/model.xml">FAC8194AFB03F881D4B33DB48C8F1009BFD1502123C67B1EC69F94C0AE6FFBD3</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.9</ModelSchemaVersion>
+</DacOrigin>
